@@ -21,17 +21,23 @@ public class Ejemplo04 {
         int variable = 10 + 10;
         System.out.println(variable);
         
+        
         System.out.println("----------------");
         int variable2 = 10 * 10;
         System.out.println(variable2);
         
+       
         System.out.println("----------------");
-        double variable3 = 10 * 10;
+        double variable3 = 5.0 / 2.0;
         System.out.println(variable3);
+      
         
         System.out.println("----------------");
-        String variable4 = "10" + "10";
+        String variable4 = "20" + " 330";
         System.out.println(variable4);
+       
+        
+        
         
         
     }
