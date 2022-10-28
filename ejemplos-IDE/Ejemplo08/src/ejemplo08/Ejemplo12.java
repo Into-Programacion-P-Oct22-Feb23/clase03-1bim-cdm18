@@ -16,7 +16,7 @@ public class Ejemplo12 {
      */
     public static void main(String[] args) {
         // Ejemplo, expresión: not (a == c or b > d) and (c > b + d * 2)
-        int a = 20;
+        int a = 10;
         int b = 1;
         int c = 9;
         int d = 2;

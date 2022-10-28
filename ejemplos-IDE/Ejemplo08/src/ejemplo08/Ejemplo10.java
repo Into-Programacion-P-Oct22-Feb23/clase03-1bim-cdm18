@@ -21,7 +21,7 @@ public class Ejemplo10 {
         int c = 20;
 
         boolean operando1 = a > b;
-        boolean operando2 = c == a;
+        boolean operando2 = c == a; //20==10 means false == igual igual a 
         boolean valorC = operando1 && operando2;
 
         System.out.println(valorC);

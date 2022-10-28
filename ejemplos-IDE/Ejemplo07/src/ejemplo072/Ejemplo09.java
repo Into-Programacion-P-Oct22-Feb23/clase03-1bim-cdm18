@@ -16,11 +16,12 @@ public class Ejemplo09 {
      */
     public static void main(String[] args) {
         // Ejemplo de operador lógico NEGACIÓN
-        boolean a = !true;
+        boolean a = !true; 
         boolean c = !false;
         
         System.out.println(a); // negación
         System.out.println(c); // negación
+        // presentar valores reales
         
     }
     

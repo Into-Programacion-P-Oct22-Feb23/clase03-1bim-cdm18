@@ -18,7 +18,7 @@ public class Ejemplo09 {
         // Ejemplos
         boolean operando1 = 10 > 1;
         boolean operando2 = 20 == 10;
-        boolean valorC = operando1 && operando2;
+        boolean valorC = operando1 && operando2; //false AND FALSE
 
         System.out.println(valorC);
 

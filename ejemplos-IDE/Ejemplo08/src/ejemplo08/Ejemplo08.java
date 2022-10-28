@@ -16,9 +16,9 @@ public class Ejemplo08 {
      */
     public static void main(String[] args) {
         // Ejemplos
-        boolean valorA = 10 < 10;
+        boolean valorA = 10 < 10; 
         boolean valorB = 11 >= 10;
-        boolean valorC = valorA && valorB;
+        boolean valorC = valorA && valorB; //resultado de false and false equals
 
         System.out.println(valorC);
 

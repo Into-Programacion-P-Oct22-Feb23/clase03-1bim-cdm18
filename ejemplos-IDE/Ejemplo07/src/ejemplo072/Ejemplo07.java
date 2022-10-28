@@ -16,7 +16,7 @@ public class Ejemplo07 {
      */
     public static void main(String[] args) {
         // Ejemplo de operador lógico AND
-        boolean a = true && true ;
+        boolean a = true && true ; 
         boolean b = true && false;
         boolean c = false && true;
         boolean d = false && false;
